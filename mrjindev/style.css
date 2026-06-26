@@ -10,6 +10,10 @@ a[href="/en/"]:has(img[alt="Special icon"]) {
     background: yellow !important;
 }
 
+a[href="/en/"]:has(img[alt="Special icon"]) span[color="#ffffff"] {
+    color: black !important;
+}
+
 img[alt="Special icon"] {
     content: url("https://cdn.jsdelivr.net/gh/svetlanasamsonyan-hash/CSS@main/mrjindev/assets/promotion.png") !important;
 }
