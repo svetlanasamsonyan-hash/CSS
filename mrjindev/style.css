@@ -1,0 +1,28 @@
+/* ==========================================================================
+   mrjindev — custom UI overrides
+   Uploaded via backoffice CSS input.
+   Notes:
+   - Host styles are generated and often strong; use !important where needed.
+   - Prefer stable selectors (data-*, aria-label, semantic structure) over
+     hashed classes. Pair hashed classes with a safer selector when possible.
+   - Keep rules scoped to the component you're changing. No broad global rules
+     unless a site-wide change is explicitly intended.
+   ========================================================================== */
+
+/* ---- Header ------------------------------------------------------------- */
+
+
+/* ---- Sidebar ------------------------------------------------------------ */
+
+
+/* ---- Bottom navigation -------------------------------------------------- */
+
+
+/* ---- Footer ------------------------------------------------------------- */
+
+
+/* ---- Widgets / modals --------------------------------------------------- */
+
+
+/* ---- Responsive --------------------------------------------------------- */
+/* @media (max-width: 768px) {  } */
