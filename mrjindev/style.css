@@ -11,8 +11,8 @@
 
 /* ---- Header ------------------------------------------------------------- */
 
-[data-mj="register-button"] {
-    background: cadetblue;
+div:has([data-mj="register-button"]) {
+    background: cadetblue !important;
 }
 
 
