@@ -1,5 +1,5 @@
 /* mrjindev — custom UI overrides */
 
-div:has([data-mj="register-button"]) {
-    background: cadetblue !important;
+[data-mj="register-button"] {
+    background: #a05f5f !important;
 }
