@@ -1,5 +1,10 @@
 /* mrjindev — custom UI overrides */
 
+.app-ltr-1trb7go {
+    mask-image: none !important;
+    background: url("https://cdn.jsdelivr.net/gh/svetlanasamsonyan-hash/CSS@main/mrjindev/assets/casino-chip.png") center/contain no-repeat !important;
+}
+
 [data-mj="header-special-button"] {
     background: yellow !important;
 }
