@@ -3,3 +3,9 @@
 [data-mj="register-button"] {
     background: #a05f5f !important;
 }
+
+a[href="/en/Jackpot Test"] {
+    font-weight: 800 !important;
+    color: #ffec00e3 !important;
+    font-size: larger !important;
+}
