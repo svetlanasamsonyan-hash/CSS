@@ -9,11 +9,11 @@ img[alt="Special icon"] {
 }
 
 [data-mj="register-button"] {
-    background: #d3a923 !important;
+    background: yellow !important;
 }
 
 [data-mj="widget-egt-jackpot"] p {
     font-weight: 800 !important;
-    color: #d3a923 !important;
+    color: yellow !important;
     font-size: larger !important;
 }
