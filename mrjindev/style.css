@@ -1,5 +1,9 @@
 /* mrjindev — custom UI overrides */
 
+img[alt="Special icon"] {
+    content: url("https://cdn.jsdelivr.net/gh/svetlanasamsonyan-hash/CSS@main/mrjindev/assets/promotion.png") !important;
+}
+
 [data-mj="register-button"] {
     background: #d3a923 !important;
 }
