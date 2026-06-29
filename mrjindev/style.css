@@ -1,6 +1,6 @@
 /* mrjindev — custom UI overrides */
 
-@import url('https://fonts.googleapis.com/css2?family=Cinzel:wght@400;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&display=swap');
 
 .app-ltr-1trb7go {
     mask-image: none !important;
@@ -14,7 +14,7 @@ a[href="/en/"]:has(img[alt="Special icon"]) {
 
 a[href="/en/"]:has(img[alt="Special icon"]) span[color="#ffffff"] {
     color: black !important;
-    font-family: 'Cinzel', serif !important;
+    font-family: 'Montserrat', serif !important;
 }
 
 img[alt="Special icon"] {
